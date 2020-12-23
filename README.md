@@ -1,1 +1,1 @@
-https://vadim-mostovenko.github.io/Simple-landing-made-with-pure-HTML-CSS/index.html
+https://vadim-mostovenko.github.io/Webinar-landing-page_HTML-CSS/
