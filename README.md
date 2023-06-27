@@ -1,1 +1,1 @@
-Deployed project: https://vadim-mostovenko.github.io/Webinar-landing-page_HTML-CSS/
+Deployed project: https://david-ginzburg.github.io/Webinar-landing-page_HTML-CSS/
